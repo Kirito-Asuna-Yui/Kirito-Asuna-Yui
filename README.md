@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kirito-Asuna-Yui
 - 👀 I’m interested in Anime
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me Telegram
+- Welcome to my blog https://kay.2life.top/
 
 <!---
 Kirito-Asuna-Yui/Kirito-Asuna-Yui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
